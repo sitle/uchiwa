@@ -4,6 +4,8 @@
 
 The dashboard is under active development, and major changes are not uncommon.
 
+[![Code Climate](https://codeclimate.com/github/palourde/uchiwa.png)](https://codeclimate.com/github/palourde/uchiwa)
+
 ## Features
 
 * Support of multiple Sensu APIs
@@ -22,13 +24,8 @@ The dashboard is under active development, and major changes are not uncommon.
 ## Installation
 
 * Checkout the source: `git clone git@github.com:palourde/uchiwa.git`
-* Install the dependencies:
-
-```bash
-npm install
-npm install -g bower
-bower install
-```
+* Install bower on your system: `npm install -g bower` 
+* Install the dependencies: `npm install`
 
 ## Getting Started
 
